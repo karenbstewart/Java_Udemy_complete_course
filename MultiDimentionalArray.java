@@ -1,6 +1,11 @@
 package programming.core.java;
 
 public class MultiDimentionalArray {
+	/* Examples of Arrays and Multi-Dimentional arrays
+	 * 2D and 3D and how they work
+	 * 
+	 * Written by Karen B Stewart 20/10/20
+	 */
 
 	public static void main(String[] args) {
 		
@@ -13,6 +18,7 @@ public class MultiDimentionalArray {
 				{2, 4},
 				{0, 7, 26, 67}
 		};
+		
 		System.out.println(grid[1][1]); // output 4
 		System.out.print(grid[2][2]);
 		
